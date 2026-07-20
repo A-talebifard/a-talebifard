@@ -5,7 +5,7 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9F4F&width=500&lines=GIS+%26+WebGIS+Developer;GeoAI+Specialist;Full-Stack+Engineer;ML+%2F+DL+Practitioner)
 
 I bridge the gap between **Geospatial Science**, **Modern Web Technologies**, and **Artificial Intelligence**. 
-With an MSc in Geomatics Engineering and 6+ years of experience, I build intelligent spatial solutions that solve real-world problems.
+With an MSc in Geospatial Information System and 6+ years of experience, I build intelligent spatial solutions that solve real-world problems.
 
 </div>
 
